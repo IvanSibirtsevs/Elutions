@@ -8,7 +8,7 @@ Tasks:
 3.	Find anomalies in the target variables (Y1 , Y2). Explain your method and your findings
 4.	Forecast the Y variables for next 14 days (2017-07-02 to 2017-07-15). You should focus on improving accuracy of your predictions 
 5.	Create a detailed report with plots and explanation of the analysis you’ve done
-6.	Submit both the report and the code
+
 
 
 # Report
